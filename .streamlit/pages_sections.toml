@@ -1,0 +1,35 @@
+[[pages]]
+path = "ALARM.py"
+name = "ALARM 소개"
+icon = "⏰"
+
+
+[[pages]]
+path = "pages/식품알레르기정보.py"
+name = "식품알레르기란?"
+icon = "🔎"
+
+[[pages]]
+name = "ALARM Menu"
+icon = "🥐"
+is_section = true
+
+[[pages]]
+path = "pages/01_레시피추천 챗봇.py"
+name = "알러지 프리 레시피 마법사"
+#icon = "🧙‍♂️"
+
+[[pages]]
+path = "pages/02_성분표 이미지인식.py"
+name = "알러지 스캐너"
+#icon = "🔍"
+
+[[pages]]
+path = "pages/03_대체식품 알리미봇.py"
+name = "알러지 안심 대체식품 추천봇"
+#icon = "🤖"
+
+[[pages]]
+path = "pages/04_알레르기 증상정보.py"
+name = "알러지 리포트"
+#icon = "📑"
