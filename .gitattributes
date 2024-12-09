@@ -1,3 +1,4 @@
 index.faiss filter=lfs diff=lfs merge=lfs -text
 db/index.faiss filter=lfs diff=lfs merge=lfs -text
 data/recipe_content_final.csv filter=lfs diff=lfs merge=lfs -text
+data/재료명2_수정.csv filter=lfs diff=lfs merge=lfs -text
